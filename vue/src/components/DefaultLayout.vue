@@ -44,7 +44,7 @@
               <Menu as="div" class="ml-3 relative">
                 <div class="flex">
                   <MenuButton
-                    class="max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
+                    class="max-w-xs bg-gray-800 rounded-full flex flex-row-reverse items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                   >
                     <span class="sr-only">Open user menu</span>
 

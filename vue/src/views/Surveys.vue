@@ -38,7 +38,8 @@
         </nav>
       </div>
     </div>
-    <div v-else class="text-gray-600 text-center py-16">
+    <div v-else class="text-gray-600 flex flex-col items-center justify-center mt-16 text-center py-16">
+      <img class="w-40" src="../assets/no-data-removebg-preview.png" />
       Your don't have surveys yet
     </div>
   </PageComponent>
